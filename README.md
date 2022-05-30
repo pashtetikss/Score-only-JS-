@@ -1,1 +1,1 @@
-# Score-only-JS-
+# Score-only-JS
